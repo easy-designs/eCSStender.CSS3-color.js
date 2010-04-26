@@ -1,0 +1,5 @@
+*v0.1* (2010-04-25)
+
+* Adding opacity support
+* Adding RGBa & HSL/HSLa support
+* RBGa & HSLa support in IE is limited to backgrounds currently
