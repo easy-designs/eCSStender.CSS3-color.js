@@ -316,6 +316,5 @@ Note:           If you change or improve on this script, please let us know by
       return p;
     }
   };
-  window.ColorUtils = ColorUtils;
     
 })();
